@@ -1,4 +1,4 @@
-![coverphoto](https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/coverphoto.png)
+![coverphoto](https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/coverphoto-1.png)
 
 ### Hi there 👋
 
