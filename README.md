@@ -1,3 +1,5 @@
+![coverphoto](https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/coverphoto.jpeg)
+
 ### Hi there 👋
 
 I'm a web developer based in Myanmar, Asia. I mostly work in the back-end but I occasionally do front-end staffs when I want some pleasure developing beautiful and nice UIs. I'm a present final year CS student of University of Technology (Yatanarpon Cyber City). When I'm not coding, I often play video games, cook things and read books.
@@ -25,3 +27,8 @@ My first back-end language is PHP. Laravel later comes in my back-end toolbox. N
 - 👯 I’m looking to collaborate on a senior-driven software development team.
 - 🤔 I’m looking for help with project management.
 - 💬 Ask me about sequelizeORM, MySQL, Node and how to cook.
+
+### Where to find me
+
+<a href="https://github.com/mrHtetPhyoNaing"><img src="https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/github.svg"></a>
+<a href="https://twitter.com/phyo_tayzar"><img src="https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/twitter.svg"></a>
