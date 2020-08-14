@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-I'm a web developer based in Myanmar, Asia. I mostly work in the back-end but I occasionally do front-end staffs when I want some pleasure developing beautiful and nice UIs. I'm a present final year CS student of University of Technology (Yatanarpon Cyber City). When I'm not coding, I often play video games, cook things and read books.
+I'm a web developer based in Myanmar 🇲🇲, Asia. I mostly work in the back-end but I occasionally do front-end staffs when I want some pleasure developing beautiful and nice UIs. I'm a present final year CS student of <a href="https://www.utycc.edu.mm/">University of Technology (Yatanarpon Cyber City)</a>. When I'm not coding, I often play video games :video_game:, cook things :egg: and read books :books:.
 
 ### Dev Profile
 
-My first back-end language is PHP. Laravel later comes in my back-end toolbox. Now, I'm working projects with Node. I have also some experience in Java and OOP. As database, I'm pretty confident working with MySQL and MongoDB. In the front-word, I make things nice using TailwindCSS and React.
+My first back-end language is PHP. Laravel comes later in my back-end toolbox. Now, I'm working projects with Node. I have also some experience in Java and OOP. As database, I'm pretty confident working with MySQL and MongoDB. In the front-word, I make things nice using TailwindCSS and React.
 
 #### Things I code with
 
