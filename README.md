@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a web developer based in Myanmar 🇲🇲, Asia :earth_asia:. I mostly work in the back-end but I occasionally do front-end staffs when I want some pleasure developing beautiful and nice UIs. I'm a present final year CS student of <a href="https://www.utycc.edu.mm/">University of Technology (Yatanarpon Cyber City)</a>. When I'm not coding, I often play video games :video_game:, cook things :egg: and read books :books:.
+An enthusiastic and highly motivated fullstack developer with demonstrated experiences in Software Engineering who believes in hard work. Able to learn and adapt new technologies at a very fast pace. Studied Japanese Language N2.
 
 ### Dev Profile :star2:
 
@@ -22,13 +22,12 @@ My first back-end language is PHP. Laravel comes later in my back-end toolbox. N
 ![mongodb](https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/mongodb.svg)
 ![nodejs](https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/nodejs.svg)
 
-- 🔭 I’m currently working on my final year thesis which is also based in Software Engineering.
-- 🌱 I’m currently polishing my knowledge in Java and OOP.
-- 👯 I’m looking to collaborate on a senior-driven software development team.
-- 🤔 I’m looking for help with project management.
-- 💬 Ask me about sequelizeORM, MySQL, Node and how to cook.
+- 🔭 I’m currently working as a fullstack developer in a Singapore-based company remotely.
+- 🌱 I’m currently polishing my knowledge in JavaScript.
+- 🤔 I’m currently studying how to draw.
+- 💬 Ask me about sequelizeORM, MySQL, React, Redux, Node and how to cook.
 
 ### Where to find me :bell:
 
 <a href="https://github.com/mrhpn"><img src="https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/github.svg"></a>
-<a href="https://twitter.com/phyo_tayzar"><img src="https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/twitter.svg"></a>
+<a href="https://twitter.com/mrhpn7"><img src="https://github.com/mrHtetPhyoNaing/mrHtetPhyoNaing/blob/master/twitter.svg"></a>
